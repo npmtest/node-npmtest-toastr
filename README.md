@@ -1,7 +1,10 @@
-# test coverage for  [toastr (v2.1.2)](http://www.toastrjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-toastr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-toastr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-toastr.svg)](https://travis-ci.org/npmtest/node-npmtest-toastr)
+# npmtest-toastr
+
+#### test coverage for  [toastr (v2.1.2)](http://www.toastrjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-toastr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-toastr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-toastr.svg)](https://travis-ci.org/npmtest/node-npmtest-toastr)
+
 #### ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
-[![NPM](https://nodei.co/npm/toastr.png?downloads=true)](https://www.npmjs.com/package/toastr)
+[![NPM](https://nodei.co/npm/toastr.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/toastr)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-toastr/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-toastr/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-toastr/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-toastr/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-toastr/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-toastr/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-toastr/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-toastr/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-toastr/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-toastr/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-toastr%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-toastr/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-toastr/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-toastr/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-toastr/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-toastr%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-toastr/build/test-report.html](https://npmtest.github.io/node-npmtest-toastr/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-toastr/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-toastr/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-toastr/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-toastr/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-toastr/build/screenCapture.npmPackageListing.svg)
 
@@ -80,17 +89,14 @@
     "main": "toastr.js",
     "maintainers": [
         {
-            "name": "durango",
-            "email": "me@danieldurante.com"
+            "name": "durango"
         },
         {
-            "name": "timferrell",
-            "email": "timothyferrell+npm@gmail.com"
+            "name": "timferrell"
         }
     ],
     "name": "toastr",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/CodeSeven/toastr.git"

@@ -1,7 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <title>Code coverage report for node-npmtest-toastr/toastr/toastr.js</title>
+<html lang="en"><head>
+    <title>Code coverage report for node-npmtest-toastr/node_modules/toastr/toastr.js</title>
     <meta charset="utf-8">
     <style>
         body, html {
@@ -194,7 +192,7 @@
     <h1 style="font-weight: bold;">
         <a href="https://github.com/npmtest/node-npmtest-toastr">npmtest-toastr (v0.0.1)</a>
     </h1>
-    <h1>Code coverage report for <span class="entity">node-npmtest-toastr/toastr/toastr.js</span></h1>
+    <h1>Code coverage report for <span class="entity">node-npmtest-toastr/node_modules/toastr/toastr.js</span></h1>
     <h2>
         
         Statements: <span class="metric">17.95% <small>(35 / 195)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -210,11 +208,11 @@
         
         Ignored: <span class="metric"><span class="ignore-none">none</span></span> &nbsp;&nbsp;&nbsp;&nbsp;
     </h2>
-    <div class="path"><a href="../../index.html">All files</a> &#187; <a href="index.html">node-npmtest-toastr/toastr/</a> &#187; toastr.js</div>
+    <div class="path"><a href="../../../index.html">All files</a> » <a href="index.html">node-npmtest-toastr/node_modules/toastr/</a> » toastr.js</div>
 </div>
 <div class="body">
 <pre><table class="coverage">
-<tr><td class="line-count">1
+<tbody><tr><td class="line-count">1
 2
 3
 4
@@ -663,8 +661,8 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1</span>
-<span class="cline-any cline-yes">1</span>
+<span class="cline-any cline-yes">2</span>
+<span class="cline-any cline-yes">2</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
@@ -1079,8 +1077,8 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1</span>
-<span class="cline-any cline-yes">1</span>
+<span class="cline-any cline-yes">2</span>
+<span class="cline-any cline-yes">2</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -1100,19 +1098,19 @@
  */
 /* global define */
 ; (function (define) {
-    define(['jquery'], <span class="fstat-no" title="function not covered" >function ($) {</span>
-<span class="cstat-no" title="statement not covered" >        return (<span class="fstat-no" title="function not covered" >function () {</span></span>
-<span class="cstat-no" title="statement not covered" >            var $container;</span>
-<span class="cstat-no" title="statement not covered" >            var listener;</span>
-<span class="cstat-no" title="statement not covered" >            var toastId = 0;</span>
-<span class="cstat-no" title="statement not covered" >            var toastType = {</span>
+    define(['jquery'], <span class="fstat-no" title="function not covered">function ($) {</span>
+<span class="cstat-no" title="statement not covered">        return (<span class="fstat-no" title="function not covered">function () {</span></span>
+<span class="cstat-no" title="statement not covered">            var $container;</span>
+<span class="cstat-no" title="statement not covered">            var listener;</span>
+<span class="cstat-no" title="statement not covered">            var toastId = 0;</span>
+<span class="cstat-no" title="statement not covered">            var toastType = {</span>
                 error: 'error',
                 info: 'info',
                 success: 'success',
                 warning: 'warning'
             };
 &nbsp;
-<span class="cstat-no" title="statement not covered" >            var toastr = {</span>
+<span class="cstat-no" title="statement not covered">            var toastr = {</span>
                 clear: clear,
                 remove: remove,
                 error: error,
@@ -1125,14 +1123,14 @@
                 warning: warning
             };
 &nbsp;
-<span class="cstat-no" title="statement not covered" >            var previousToast;</span>
+<span class="cstat-no" title="statement not covered">            var previousToast;</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >            return toastr;</span>
+<span class="cstat-no" title="statement not covered">            return toastr;</span>
 &nbsp;
             ////////////////
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function error(message, title, optionsOverride) {</span>
-<span class="cstat-no" title="statement not covered" >                return notify({</span>
+<span class="fstat-no" title="function not covered">            function error(message, title, optionsOverride) {</span>
+<span class="cstat-no" title="statement not covered">                return notify({</span>
                     type: toastType.error,
                     iconClass: getOptions().iconClasses.error,
                     message: message,
@@ -1141,20 +1139,20 @@
                 });
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function getContainer(options, create) {</span>
-<span class="cstat-no" title="statement not covered" >                if (!options) { <span class="cstat-no" title="statement not covered" >options = getOptions(); </span>}</span>
-<span class="cstat-no" title="statement not covered" >                $container = $('#' + options.containerId);</span>
-<span class="cstat-no" title="statement not covered" >                if ($container.length) {</span>
-<span class="cstat-no" title="statement not covered" >                    return $container;</span>
+<span class="fstat-no" title="function not covered">            function getContainer(options, create) {</span>
+<span class="cstat-no" title="statement not covered">                if (!options) { <span class="cstat-no" title="statement not covered">options = getOptions(); </span>}</span>
+<span class="cstat-no" title="statement not covered">                $container = $('#' + options.containerId);</span>
+<span class="cstat-no" title="statement not covered">                if ($container.length) {</span>
+<span class="cstat-no" title="statement not covered">                    return $container;</span>
                 }
-<span class="cstat-no" title="statement not covered" >                if (create) {</span>
-<span class="cstat-no" title="statement not covered" >                    $container = createContainer(options);</span>
+<span class="cstat-no" title="statement not covered">                if (create) {</span>
+<span class="cstat-no" title="statement not covered">                    $container = createContainer(options);</span>
                 }
-<span class="cstat-no" title="statement not covered" >                return $container;</span>
+<span class="cstat-no" title="statement not covered">                return $container;</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function info(message, title, optionsOverride) {</span>
-<span class="cstat-no" title="statement not covered" >                return notify({</span>
+<span class="fstat-no" title="function not covered">            function info(message, title, optionsOverride) {</span>
+<span class="cstat-no" title="statement not covered">                return notify({</span>
                     type: toastType.info,
                     iconClass: getOptions().iconClasses.info,
                     message: message,
@@ -1163,12 +1161,12 @@
                 });
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function subscribe(callback) {</span>
-<span class="cstat-no" title="statement not covered" >                listener = callback;</span>
+<span class="fstat-no" title="function not covered">            function subscribe(callback) {</span>
+<span class="cstat-no" title="statement not covered">                listener = callback;</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function success(message, title, optionsOverride) {</span>
-<span class="cstat-no" title="statement not covered" >                return notify({</span>
+<span class="fstat-no" title="function not covered">            function success(message, title, optionsOverride) {</span>
+<span class="cstat-no" title="statement not covered">                return notify({</span>
                     type: toastType.success,
                     iconClass: getOptions().iconClasses.success,
                     message: message,
@@ -1177,8 +1175,8 @@
                 });
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function warning(message, title, optionsOverride) {</span>
-<span class="cstat-no" title="statement not covered" >                return notify({</span>
+<span class="fstat-no" title="function not covered">            function warning(message, title, optionsOverride) {</span>
+<span class="cstat-no" title="statement not covered">                return notify({</span>
                     type: toastType.warning,
                     iconClass: getOptions().iconClasses.warning,
                     message: message,
@@ -1187,61 +1185,61 @@
                 });
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function clear($toastElement, clearOptions) {</span>
-<span class="cstat-no" title="statement not covered" >                var options = getOptions();</span>
-<span class="cstat-no" title="statement not covered" >                if (!$container) { <span class="cstat-no" title="statement not covered" >getContainer(options); </span>}</span>
-<span class="cstat-no" title="statement not covered" >                if (!clearToast($toastElement, options, clearOptions)) {</span>
-<span class="cstat-no" title="statement not covered" >                    clearContainer(options);</span>
+<span class="fstat-no" title="function not covered">            function clear($toastElement, clearOptions) {</span>
+<span class="cstat-no" title="statement not covered">                var options = getOptions();</span>
+<span class="cstat-no" title="statement not covered">                if (!$container) { <span class="cstat-no" title="statement not covered">getContainer(options); </span>}</span>
+<span class="cstat-no" title="statement not covered">                if (!clearToast($toastElement, options, clearOptions)) {</span>
+<span class="cstat-no" title="statement not covered">                    clearContainer(options);</span>
                 }
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function remove($toastElement) {</span>
-<span class="cstat-no" title="statement not covered" >                var options = getOptions();</span>
-<span class="cstat-no" title="statement not covered" >                if (!$container) { <span class="cstat-no" title="statement not covered" >getContainer(options); </span>}</span>
-<span class="cstat-no" title="statement not covered" >                if ($toastElement &amp;&amp; $(':focus', $toastElement).length === 0) {</span>
-<span class="cstat-no" title="statement not covered" >                    removeToast($toastElement);</span>
-<span class="cstat-no" title="statement not covered" >                    return;</span>
+<span class="fstat-no" title="function not covered">            function remove($toastElement) {</span>
+<span class="cstat-no" title="statement not covered">                var options = getOptions();</span>
+<span class="cstat-no" title="statement not covered">                if (!$container) { <span class="cstat-no" title="statement not covered">getContainer(options); </span>}</span>
+<span class="cstat-no" title="statement not covered">                if ($toastElement &amp;&amp; $(':focus', $toastElement).length === 0) {</span>
+<span class="cstat-no" title="statement not covered">                    removeToast($toastElement);</span>
+<span class="cstat-no" title="statement not covered">                    return;</span>
                 }
-<span class="cstat-no" title="statement not covered" >                if ($container.children().length) {</span>
-<span class="cstat-no" title="statement not covered" >                    $container.remove();</span>
+<span class="cstat-no" title="statement not covered">                if ($container.children().length) {</span>
+<span class="cstat-no" title="statement not covered">                    $container.remove();</span>
                 }
             }
 &nbsp;
             // internal functions
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function clearContainer (options) {</span>
-<span class="cstat-no" title="statement not covered" >                var toastsToClear = $container.children();</span>
-<span class="cstat-no" title="statement not covered" >                for (var i = toastsToClear.length - 1; i &gt;= 0; i--) {</span>
-<span class="cstat-no" title="statement not covered" >                    clearToast($(toastsToClear[i]), options);</span>
+<span class="fstat-no" title="function not covered">            function clearContainer (options) {</span>
+<span class="cstat-no" title="statement not covered">                var toastsToClear = $container.children();</span>
+<span class="cstat-no" title="statement not covered">                for (var i = toastsToClear.length - 1; i &gt;= 0; i--) {</span>
+<span class="cstat-no" title="statement not covered">                    clearToast($(toastsToClear[i]), options);</span>
                 }
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function clearToast ($toastElement, options, clearOptions) {</span>
-<span class="cstat-no" title="statement not covered" >                var force = clearOptions &amp;&amp; clearOptions.force ? clearOptions.force : false;</span>
-<span class="cstat-no" title="statement not covered" >                if ($toastElement &amp;&amp; (force || $(':focus', $toastElement).length === 0)) {</span>
-<span class="cstat-no" title="statement not covered" >                    $toastElement[options.hideMethod]({</span>
+<span class="fstat-no" title="function not covered">            function clearToast ($toastElement, options, clearOptions) {</span>
+<span class="cstat-no" title="statement not covered">                var force = clearOptions &amp;&amp; clearOptions.force ? clearOptions.force : false;</span>
+<span class="cstat-no" title="statement not covered">                if ($toastElement &amp;&amp; (force || $(':focus', $toastElement).length === 0)) {</span>
+<span class="cstat-no" title="statement not covered">                    $toastElement[options.hideMethod]({</span>
                         duration: options.hideDuration,
                         easing: options.hideEasing,
-                        complete: <span class="fstat-no" title="function not covered" >function () {</span> <span class="cstat-no" title="statement not covered" >removeToast($toastElement); </span>}
+                        complete: <span class="fstat-no" title="function not covered">function () {</span> <span class="cstat-no" title="statement not covered">removeToast($toastElement); </span>}
                     });
-<span class="cstat-no" title="statement not covered" >                    return true;</span>
+<span class="cstat-no" title="statement not covered">                    return true;</span>
                 }
-<span class="cstat-no" title="statement not covered" >                return false;</span>
+<span class="cstat-no" title="statement not covered">                return false;</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function createContainer(options) {</span>
-<span class="cstat-no" title="statement not covered" >                $container = $('&lt;div/&gt;')</span>
+<span class="fstat-no" title="function not covered">            function createContainer(options) {</span>
+<span class="cstat-no" title="statement not covered">                $container = $('&lt;div/&gt;')</span>
                     .attr('id', options.containerId)
                     .addClass(options.positionClass)
                     .attr('aria-live', 'polite')
                     .attr('role', 'alert');
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                $container.appendTo($(options.target));</span>
-<span class="cstat-no" title="statement not covered" >                return $container;</span>
+<span class="cstat-no" title="statement not covered">                $container.appendTo($(options.target));</span>
+<span class="cstat-no" title="statement not covered">                return $container;</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function getDefaults() {</span>
-<span class="cstat-no" title="statement not covered" >                return {</span>
+<span class="fstat-no" title="function not covered">            function getDefaults() {</span>
+<span class="cstat-no" title="statement not covered">                return {</span>
                     tapToDismiss: true,
                     toastClass: 'toast',
                     containerId: 'toast-container',
@@ -1280,38 +1278,38 @@
                 };
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function publish(args) {</span>
-<span class="cstat-no" title="statement not covered" >                if (!listener) { <span class="cstat-no" title="statement not covered" >return; </span>}</span>
-<span class="cstat-no" title="statement not covered" >                listener(args);</span>
+<span class="fstat-no" title="function not covered">            function publish(args) {</span>
+<span class="cstat-no" title="statement not covered">                if (!listener) { <span class="cstat-no" title="statement not covered">return; </span>}</span>
+<span class="cstat-no" title="statement not covered">                listener(args);</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function notify(map) {</span>
-<span class="cstat-no" title="statement not covered" >                var options = getOptions();</span>
-<span class="cstat-no" title="statement not covered" >                var iconClass = map.iconClass || options.iconClass;</span>
+<span class="fstat-no" title="function not covered">            function notify(map) {</span>
+<span class="cstat-no" title="statement not covered">                var options = getOptions();</span>
+<span class="cstat-no" title="statement not covered">                var iconClass = map.iconClass || options.iconClass;</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                if (typeof (map.optionsOverride) !== 'undefined') {</span>
-<span class="cstat-no" title="statement not covered" >                    options = $.extend(options, map.optionsOverride);</span>
-<span class="cstat-no" title="statement not covered" >                    iconClass = map.optionsOverride.iconClass || iconClass;</span>
+<span class="cstat-no" title="statement not covered">                if (typeof (map.optionsOverride) !== 'undefined') {</span>
+<span class="cstat-no" title="statement not covered">                    options = $.extend(options, map.optionsOverride);</span>
+<span class="cstat-no" title="statement not covered">                    iconClass = map.optionsOverride.iconClass || iconClass;</span>
                 }
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                if (shouldExit(options, map)) { <span class="cstat-no" title="statement not covered" >return; </span>}</span>
+<span class="cstat-no" title="statement not covered">                if (shouldExit(options, map)) { <span class="cstat-no" title="statement not covered">return; </span>}</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                toastId++;</span>
+<span class="cstat-no" title="statement not covered">                toastId++;</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                $container = getContainer(options, true);</span>
+<span class="cstat-no" title="statement not covered">                $container = getContainer(options, true);</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                var intervalId = null;</span>
-<span class="cstat-no" title="statement not covered" >                var $toastElement = $('&lt;div/&gt;');</span>
-<span class="cstat-no" title="statement not covered" >                var $titleElement = $('&lt;div/&gt;');</span>
-<span class="cstat-no" title="statement not covered" >                var $messageElement = $('&lt;div/&gt;');</span>
-<span class="cstat-no" title="statement not covered" >                var $progressElement = $('&lt;div/&gt;');</span>
-<span class="cstat-no" title="statement not covered" >                var $closeElement = $(options.closeHtml);</span>
-<span class="cstat-no" title="statement not covered" >                var progressBar = {</span>
+<span class="cstat-no" title="statement not covered">                var intervalId = null;</span>
+<span class="cstat-no" title="statement not covered">                var $toastElement = $('&lt;div/&gt;');</span>
+<span class="cstat-no" title="statement not covered">                var $titleElement = $('&lt;div/&gt;');</span>
+<span class="cstat-no" title="statement not covered">                var $messageElement = $('&lt;div/&gt;');</span>
+<span class="cstat-no" title="statement not covered">                var $progressElement = $('&lt;div/&gt;');</span>
+<span class="cstat-no" title="statement not covered">                var $closeElement = $(options.closeHtml);</span>
+<span class="cstat-no" title="statement not covered">                var progressBar = {</span>
                     intervalId: null,
                     hideEta: null,
                     maxHideTime: null
                 };
-<span class="cstat-no" title="statement not covered" >                var response = {</span>
+<span class="cstat-no" title="statement not covered">                var response = {</span>
                     toastId: toastId,
                     state: 'visible',
                     startTime: new Date(),
@@ -1319,25 +1317,25 @@
                     map: map
                 };
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                personalizeToast();</span>
+<span class="cstat-no" title="statement not covered">                personalizeToast();</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                displayToast();</span>
+<span class="cstat-no" title="statement not covered">                displayToast();</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                handleEvents();</span>
+<span class="cstat-no" title="statement not covered">                handleEvents();</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                publish(response);</span>
+<span class="cstat-no" title="statement not covered">                publish(response);</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                if (options.debug &amp;&amp; console) {</span>
-<span class="cstat-no" title="statement not covered" >                    console.log(response);</span>
+<span class="cstat-no" title="statement not covered">                if (options.debug &amp;&amp; console) {</span>
+<span class="cstat-no" title="statement not covered">                    console.log(response);</span>
                 }
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                return $toastElement;</span>
+<span class="cstat-no" title="statement not covered">                return $toastElement;</span>
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function escapeHtml(source) {</span>
-<span class="cstat-no" title="statement not covered" >                    if (source == null)</span>
-<span class="cstat-no" title="statement not covered" >                        source = "";</span>
+<span class="fstat-no" title="function not covered">                function escapeHtml(source) {</span>
+<span class="cstat-no" title="statement not covered">                    if (source == null)</span>
+<span class="cstat-no" title="statement not covered">                        source = "";</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                    return new String(source)</span>
+<span class="cstat-no" title="statement not covered">                    return new String(source)</span>
                         .replace(/&amp;/g, '&amp;amp;')
                         .replace(/"/g, '&amp;quot;')
                         .replace(/'/g, '&amp;#39;')
@@ -1345,188 +1343,189 @@
                         .replace(/&gt;/g, '&amp;gt;');
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function personalizeToast() {</span>
-<span class="cstat-no" title="statement not covered" >                    setIcon();</span>
-<span class="cstat-no" title="statement not covered" >                    setTitle();</span>
-<span class="cstat-no" title="statement not covered" >                    setMessage();</span>
-<span class="cstat-no" title="statement not covered" >                    setCloseButton();</span>
-<span class="cstat-no" title="statement not covered" >                    setProgressBar();</span>
-<span class="cstat-no" title="statement not covered" >                    setSequence();</span>
+<span class="fstat-no" title="function not covered">                function personalizeToast() {</span>
+<span class="cstat-no" title="statement not covered">                    setIcon();</span>
+<span class="cstat-no" title="statement not covered">                    setTitle();</span>
+<span class="cstat-no" title="statement not covered">                    setMessage();</span>
+<span class="cstat-no" title="statement not covered">                    setCloseButton();</span>
+<span class="cstat-no" title="statement not covered">                    setProgressBar();</span>
+<span class="cstat-no" title="statement not covered">                    setSequence();</span>
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function handleEvents() {</span>
-<span class="cstat-no" title="statement not covered" >                    $toastElement.hover(stickAround, delayedHideToast);</span>
-<span class="cstat-no" title="statement not covered" >                    if (!options.onclick &amp;&amp; options.tapToDismiss) {</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.click(hideToast);</span>
+<span class="fstat-no" title="function not covered">                function handleEvents() {</span>
+<span class="cstat-no" title="statement not covered">                    $toastElement.hover(stickAround, delayedHideToast);</span>
+<span class="cstat-no" title="statement not covered">                    if (!options.onclick &amp;&amp; options.tapToDismiss) {</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.click(hideToast);</span>
                     }
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                    if (options.closeButton &amp;&amp; $closeElement) {</span>
-<span class="cstat-no" title="statement not covered" >                        $closeElement.click(<span class="fstat-no" title="function not covered" >function (event) {</span></span>
-<span class="cstat-no" title="statement not covered" >                            if (event.stopPropagation) {</span>
-<span class="cstat-no" title="statement not covered" >                                event.stopPropagation();</span>
-                            } else <span class="cstat-no" title="statement not covered" >if (event.cancelBubble !== undefined &amp;&amp; event.cancelBubble !== true) {</span>
-<span class="cstat-no" title="statement not covered" >                                event.cancelBubble = true;</span>
+<span class="cstat-no" title="statement not covered">                    if (options.closeButton &amp;&amp; $closeElement) {</span>
+<span class="cstat-no" title="statement not covered">                        $closeElement.click(<span class="fstat-no" title="function not covered">function (event) {</span></span>
+<span class="cstat-no" title="statement not covered">                            if (event.stopPropagation) {</span>
+<span class="cstat-no" title="statement not covered">                                event.stopPropagation();</span>
+                            } else <span class="cstat-no" title="statement not covered">if (event.cancelBubble !== undefined &amp;&amp; event.cancelBubble !== true) {</span>
+<span class="cstat-no" title="statement not covered">                                event.cancelBubble = true;</span>
                             }
-<span class="cstat-no" title="statement not covered" >                            hideToast(true);</span>
+<span class="cstat-no" title="statement not covered">                            hideToast(true);</span>
                         });
                     }
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                    if (options.onclick) {</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.click(<span class="fstat-no" title="function not covered" >function (event) {</span></span>
-<span class="cstat-no" title="statement not covered" >                            options.onclick(event);</span>
-<span class="cstat-no" title="statement not covered" >                            hideToast();</span>
+<span class="cstat-no" title="statement not covered">                    if (options.onclick) {</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.click(<span class="fstat-no" title="function not covered">function (event) {</span></span>
+<span class="cstat-no" title="statement not covered">                            options.onclick(event);</span>
+<span class="cstat-no" title="statement not covered">                            hideToast();</span>
                         });
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function displayToast() {</span>
-<span class="cstat-no" title="statement not covered" >                    $toastElement.hide();</span>
+<span class="fstat-no" title="function not covered">                function displayToast() {</span>
+<span class="cstat-no" title="statement not covered">                    $toastElement.hide();</span>
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                    $toastElement[options.showMethod](</span>
+<span class="cstat-no" title="statement not covered">                    $toastElement[options.showMethod](</span>
                         {duration: options.showDuration, easing: options.showEasing, complete: options.onShown}
                     );
 &nbsp;
-<span class="cstat-no" title="statement not covered" >                    if (options.timeOut &gt; 0) {</span>
-<span class="cstat-no" title="statement not covered" >                        intervalId = setTimeout(hideToast, options.timeOut);</span>
-<span class="cstat-no" title="statement not covered" >                        progressBar.maxHideTime = parseFloat(options.timeOut);</span>
-<span class="cstat-no" title="statement not covered" >                        progressBar.hideEta = new Date().getTime() + progressBar.maxHideTime;</span>
-<span class="cstat-no" title="statement not covered" >                        if (options.progressBar) {</span>
-<span class="cstat-no" title="statement not covered" >                            progressBar.intervalId = setInterval(updateProgress, 10);</span>
+<span class="cstat-no" title="statement not covered">                    if (options.timeOut &gt; 0) {</span>
+<span class="cstat-no" title="statement not covered">                        intervalId = setTimeout(hideToast, options.timeOut);</span>
+<span class="cstat-no" title="statement not covered">                        progressBar.maxHideTime = parseFloat(options.timeOut);</span>
+<span class="cstat-no" title="statement not covered">                        progressBar.hideEta = new Date().getTime() + progressBar.maxHideTime;</span>
+<span class="cstat-no" title="statement not covered">                        if (options.progressBar) {</span>
+<span class="cstat-no" title="statement not covered">                            progressBar.intervalId = setInterval(updateProgress, 10);</span>
                         }
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setIcon() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (map.iconClass) {</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.addClass(options.toastClass).addClass(iconClass);</span>
+<span class="fstat-no" title="function not covered">                function setIcon() {</span>
+<span class="cstat-no" title="statement not covered">                    if (map.iconClass) {</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.addClass(options.toastClass).addClass(iconClass);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setSequence() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (options.newestOnTop) {</span>
-<span class="cstat-no" title="statement not covered" >                        $container.prepend($toastElement);</span>
+<span class="fstat-no" title="function not covered">                function setSequence() {</span>
+<span class="cstat-no" title="statement not covered">                    if (options.newestOnTop) {</span>
+<span class="cstat-no" title="statement not covered">                        $container.prepend($toastElement);</span>
                     } else {
-<span class="cstat-no" title="statement not covered" >                        $container.append($toastElement);</span>
+<span class="cstat-no" title="statement not covered">                        $container.append($toastElement);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setTitle() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (map.title) {</span>
-<span class="cstat-no" title="statement not covered" >                        $titleElement.append(!options.escapeHtml ? map.title : escapeHtml(map.title)).addClass(options.titleClass);</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.append($titleElement);</span>
+<span class="fstat-no" title="function not covered">                function setTitle() {</span>
+<span class="cstat-no" title="statement not covered">                    if (map.title) {</span>
+<span class="cstat-no" title="statement not covered">                        $titleElement.append(!options.escapeHtml ? map.title : escapeHtml(map.title)).addClass(options.titleClass);</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.append($titleElement);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setMessage() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (map.message) {</span>
-<span class="cstat-no" title="statement not covered" >                        $messageElement.append(!options.escapeHtml ? map.message : escapeHtml(map.message)).addClass(options.messageClass);</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.append($messageElement);</span>
+<span class="fstat-no" title="function not covered">                function setMessage() {</span>
+<span class="cstat-no" title="statement not covered">                    if (map.message) {</span>
+<span class="cstat-no" title="statement not covered">                        $messageElement.append(!options.escapeHtml ? map.message : escapeHtml(map.message)).addClass(options.messageClass);</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.append($messageElement);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setCloseButton() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (options.closeButton) {</span>
-<span class="cstat-no" title="statement not covered" >                        $closeElement.addClass('toast-close-button').attr('role', 'button');</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.prepend($closeElement);</span>
+<span class="fstat-no" title="function not covered">                function setCloseButton() {</span>
+<span class="cstat-no" title="statement not covered">                    if (options.closeButton) {</span>
+<span class="cstat-no" title="statement not covered">                        $closeElement.addClass('toast-close-button').attr('role', 'button');</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.prepend($closeElement);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function setProgressBar() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (options.progressBar) {</span>
-<span class="cstat-no" title="statement not covered" >                        $progressElement.addClass('toast-progress');</span>
-<span class="cstat-no" title="statement not covered" >                        $toastElement.prepend($progressElement);</span>
+<span class="fstat-no" title="function not covered">                function setProgressBar() {</span>
+<span class="cstat-no" title="statement not covered">                    if (options.progressBar) {</span>
+<span class="cstat-no" title="statement not covered">                        $progressElement.addClass('toast-progress');</span>
+<span class="cstat-no" title="statement not covered">                        $toastElement.prepend($progressElement);</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function shouldExit(options, map) {</span>
-<span class="cstat-no" title="statement not covered" >                    if (options.preventDuplicates) {</span>
-<span class="cstat-no" title="statement not covered" >                        if (map.message === previousToast) {</span>
-<span class="cstat-no" title="statement not covered" >                            return true;</span>
+<span class="fstat-no" title="function not covered">                function shouldExit(options, map) {</span>
+<span class="cstat-no" title="statement not covered">                    if (options.preventDuplicates) {</span>
+<span class="cstat-no" title="statement not covered">                        if (map.message === previousToast) {</span>
+<span class="cstat-no" title="statement not covered">                            return true;</span>
                         } else {
-<span class="cstat-no" title="statement not covered" >                            previousToast = map.message;</span>
+<span class="cstat-no" title="statement not covered">                            previousToast = map.message;</span>
                         }
                     }
-<span class="cstat-no" title="statement not covered" >                    return false;</span>
+<span class="cstat-no" title="statement not covered">                    return false;</span>
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function hideToast(override) {</span>
-<span class="cstat-no" title="statement not covered" >                    var method = override &amp;&amp; options.closeMethod !== false ? options.closeMethod : options.hideMethod;</span>
-<span class="cstat-no" title="statement not covered" >                    var duration = override &amp;&amp; options.closeDuration !== false ?</span>
+<span class="fstat-no" title="function not covered">                function hideToast(override) {</span>
+<span class="cstat-no" title="statement not covered">                    var method = override &amp;&amp; options.closeMethod !== false ? options.closeMethod : options.hideMethod;</span>
+<span class="cstat-no" title="statement not covered">                    var duration = override &amp;&amp; options.closeDuration !== false ?</span>
                         options.closeDuration : options.hideDuration;
-<span class="cstat-no" title="statement not covered" >                    var easing = override &amp;&amp; options.closeEasing !== false ? options.closeEasing : options.hideEasing;</span>
-<span class="cstat-no" title="statement not covered" >                    if ($(':focus', $toastElement).length &amp;&amp; !override) {</span>
-<span class="cstat-no" title="statement not covered" >                        return;</span>
+<span class="cstat-no" title="statement not covered">                    var easing = override &amp;&amp; options.closeEasing !== false ? options.closeEasing : options.hideEasing;</span>
+<span class="cstat-no" title="statement not covered">                    if ($(':focus', $toastElement).length &amp;&amp; !override) {</span>
+<span class="cstat-no" title="statement not covered">                        return;</span>
                     }
-<span class="cstat-no" title="statement not covered" >                    clearTimeout(progressBar.intervalId);</span>
-<span class="cstat-no" title="statement not covered" >                    return $toastElement[method]({</span>
+<span class="cstat-no" title="statement not covered">                    clearTimeout(progressBar.intervalId);</span>
+<span class="cstat-no" title="statement not covered">                    return $toastElement[method]({</span>
                         duration: duration,
                         easing: easing,
-                        complete: <span class="fstat-no" title="function not covered" >function () {</span>
-<span class="cstat-no" title="statement not covered" >                            removeToast($toastElement);</span>
-<span class="cstat-no" title="statement not covered" >                            if (options.onHidden &amp;&amp; response.state !== 'hidden') {</span>
-<span class="cstat-no" title="statement not covered" >                                options.onHidden();</span>
+                        complete: <span class="fstat-no" title="function not covered">function () {</span>
+<span class="cstat-no" title="statement not covered">                            removeToast($toastElement);</span>
+<span class="cstat-no" title="statement not covered">                            if (options.onHidden &amp;&amp; response.state !== 'hidden') {</span>
+<span class="cstat-no" title="statement not covered">                                options.onHidden();</span>
                             }
-<span class="cstat-no" title="statement not covered" >                            response.state = 'hidden';</span>
-<span class="cstat-no" title="statement not covered" >                            response.endTime = new Date();</span>
-<span class="cstat-no" title="statement not covered" >                            publish(response);</span>
+<span class="cstat-no" title="statement not covered">                            response.state = 'hidden';</span>
+<span class="cstat-no" title="statement not covered">                            response.endTime = new Date();</span>
+<span class="cstat-no" title="statement not covered">                            publish(response);</span>
                         }
                     });
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function delayedHideToast() {</span>
-<span class="cstat-no" title="statement not covered" >                    if (options.timeOut &gt; 0 || options.extendedTimeOut &gt; 0) {</span>
-<span class="cstat-no" title="statement not covered" >                        intervalId = setTimeout(hideToast, options.extendedTimeOut);</span>
-<span class="cstat-no" title="statement not covered" >                        progressBar.maxHideTime = parseFloat(options.extendedTimeOut);</span>
-<span class="cstat-no" title="statement not covered" >                        progressBar.hideEta = new Date().getTime() + progressBar.maxHideTime;</span>
+<span class="fstat-no" title="function not covered">                function delayedHideToast() {</span>
+<span class="cstat-no" title="statement not covered">                    if (options.timeOut &gt; 0 || options.extendedTimeOut &gt; 0) {</span>
+<span class="cstat-no" title="statement not covered">                        intervalId = setTimeout(hideToast, options.extendedTimeOut);</span>
+<span class="cstat-no" title="statement not covered">                        progressBar.maxHideTime = parseFloat(options.extendedTimeOut);</span>
+<span class="cstat-no" title="statement not covered">                        progressBar.hideEta = new Date().getTime() + progressBar.maxHideTime;</span>
                     }
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function stickAround() {</span>
-<span class="cstat-no" title="statement not covered" >                    clearTimeout(intervalId);</span>
-<span class="cstat-no" title="statement not covered" >                    progressBar.hideEta = 0;</span>
-<span class="cstat-no" title="statement not covered" >                    $toastElement.stop(true, true)[options.showMethod](</span>
+<span class="fstat-no" title="function not covered">                function stickAround() {</span>
+<span class="cstat-no" title="statement not covered">                    clearTimeout(intervalId);</span>
+<span class="cstat-no" title="statement not covered">                    progressBar.hideEta = 0;</span>
+<span class="cstat-no" title="statement not covered">                    $toastElement.stop(true, true)[options.showMethod](</span>
                         {duration: options.showDuration, easing: options.showEasing}
                     );
                 }
 &nbsp;
-<span class="fstat-no" title="function not covered" >                function updateProgress() {</span>
-<span class="cstat-no" title="statement not covered" >                    var percentage = ((progressBar.hideEta - (new Date().getTime())) / progressBar.maxHideTime) * 100;</span>
-<span class="cstat-no" title="statement not covered" >                    $progressElement.width(percentage + '%');</span>
+<span class="fstat-no" title="function not covered">                function updateProgress() {</span>
+<span class="cstat-no" title="statement not covered">                    var percentage = ((progressBar.hideEta - (new Date().getTime())) / progressBar.maxHideTime) * 100;</span>
+<span class="cstat-no" title="statement not covered">                    $progressElement.width(percentage + '%');</span>
                 }
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function getOptions() {</span>
-<span class="cstat-no" title="statement not covered" >                return $.extend({}, getDefaults(), toastr.options);</span>
+<span class="fstat-no" title="function not covered">            function getOptions() {</span>
+<span class="cstat-no" title="statement not covered">                return $.extend({}, getDefaults(), toastr.options);</span>
             }
 &nbsp;
-<span class="fstat-no" title="function not covered" >            function removeToast($toastElement) {</span>
-<span class="cstat-no" title="statement not covered" >                if (!$container) { <span class="cstat-no" title="statement not covered" >$container = getContainer(); </span>}</span>
-<span class="cstat-no" title="statement not covered" >                if ($toastElement.is(':visible')) {</span>
-<span class="cstat-no" title="statement not covered" >                    return;</span>
+<span class="fstat-no" title="function not covered">            function removeToast($toastElement) {</span>
+<span class="cstat-no" title="statement not covered">                if (!$container) { <span class="cstat-no" title="statement not covered">$container = getContainer(); </span>}</span>
+<span class="cstat-no" title="statement not covered">                if ($toastElement.is(':visible')) {</span>
+<span class="cstat-no" title="statement not covered">                    return;</span>
                 }
-<span class="cstat-no" title="statement not covered" >                $toastElement.remove();</span>
-<span class="cstat-no" title="statement not covered" >                $toastElement = null;</span>
-<span class="cstat-no" title="statement not covered" >                if ($container.children().length === 0) {</span>
-<span class="cstat-no" title="statement not covered" >                    $container.remove();</span>
-<span class="cstat-no" title="statement not covered" >                    previousToast = undefined;</span>
+<span class="cstat-no" title="statement not covered">                $toastElement.remove();</span>
+<span class="cstat-no" title="statement not covered">                $toastElement = null;</span>
+<span class="cstat-no" title="statement not covered">                if ($container.children().length === 0) {</span>
+<span class="cstat-no" title="statement not covered">                    $container.remove();</span>
+<span class="cstat-no" title="statement not covered">                    previousToast = undefined;</span>
                 }
             }
 &nbsp;
         })();
     });
-}(typeof define === 'function' &amp;&amp; <span class="branch-1 cbranch-no" title="branch not covered" >define.amd </span>? <span class="branch-0 cbranch-no" title="branch not covered" >define </span>: function (deps, factory) {
-    <span class="missing-if-branch" title="else path not taken" >E</span>if (typeof module !== 'undefined' &amp;&amp; module.exports) { //Node
+}(typeof define === 'function' &amp;&amp; <span class="branch-1 cbranch-no" title="branch not covered">define.amd </span>? <span class="branch-0 cbranch-no" title="branch not covered">define </span>: function (deps, factory) {
+    <span class="missing-if-branch" title="else path not taken">E</span>if (typeof module !== 'undefined' &amp;&amp; module.exports) { //Node
         module.exports = factory(require('jquery'));
     } else {
-<span class="cstat-no" title="statement not covered" >        window.toastr = factory(window.jQuery);</span>
+<span class="cstat-no" title="statement not covered">        window.toastr = factory(window.jQuery);</span>
     }
 }));
 &nbsp;
 &nbsp;</pre></td></tr>
-</table></pre>
+</tbody></table></pre>
 </div>
 <div class="footer">
-    <div class="meta">Generated by <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a> at Wed Apr 12 2017 01:02:08 GMT+0000 (UTC)</div>
+    <div class="meta">Generated by <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a> at Tue Apr 18 2017 19:21:39 GMT+0000 (UTC)</div>
 </div>
-</body>
-</html>
+
+
+</body></html>

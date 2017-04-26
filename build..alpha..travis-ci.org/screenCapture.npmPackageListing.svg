@@ -1,226 +1,226 @@
 <svg height="3566" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3566" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 19:22:43 +0000  3673338 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 19:22:43 +0000     5401 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 19:22:43 +0000     6939 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 19:22:43 +0000     6982 bytes  build/toastr.css</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 19:22:43 +0000    23830 bytes  build/toastr.js.map</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 19:22:43 +0000     5993 bytes  build/toastr.min.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 19:22:43 +0000     4953 bytes  build/toastr.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 19:22:43 +0000    14410 bytes  demo.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 19:22:43 +0000     5064 bytes  gulpfile.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 19:22:43 +0000     2047 bytes  karma.conf.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 19:22:43 +0000     6757 bytes  nuget/content/content/toastr.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 19:22:43 +0000     6245 bytes  nuget/content/content/toastr.less</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 19:22:43 +0000     5420 bytes  nuget/content/content/toastr.min.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 19:22:43 +0000     6767 bytes  nuget/content/content/toastr.scss</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 19:22:43 +0000    12301 bytes  nuget/content/scripts/toastr.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 19:22:43 +0000     3695 bytes  nuget/content/scripts/toastr.min.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 19:22:43 +0000     7471 bytes  nuget/content/scripts/toastr.min.js.map</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 19:22:43 +0000     7341 bytes  nuget/toastr.1.0.0.nupkg</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 19:22:43 +0000     1577 bytes  nuget/toastr.1.0.0.nuspec</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 19:22:43 +0000     7745 bytes  nuget/toastr.1.0.1.nupkg</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 19:22:43 +0000     3764 bytes  nuget/toastr.1.0.1.nuspec</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 19:22:43 +0000     7794 bytes  nuget/toastr.1.0.2.nupkg</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 19:22:43 +0000     3914 bytes  nuget/toastr.1.0.2.nuspec</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 19:22:43 +0000     7761 bytes  nuget/toastr.1.0.3.nupkg</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 19:22:43 +0000     1934 bytes  nuget/toastr.1.0.3.nuspec</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 19:22:43 +0000     7789 bytes  nuget/toastr.1.1.0.nupkg</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 19:22:43 +0000     1894 bytes  nuget/toastr.1.1.0.nuspec</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 19:22:43 +0000     7789 bytes  nuget/toastr.1.1.1.nupkg</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 19:22:43 +0000     1894 bytes  nuget/toastr.1.1.1.nuspec</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 19:22:43 +0000     7850 bytes  nuget/toastr.1.1.2.nupkg</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 19:22:43 +0000     1917 bytes  nuget/toastr.1.1.2.nuspec</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 19:22:43 +0000    11781 bytes  nuget/toastr.1.1.3.nupkg</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 19:22:43 +0000    11768 bytes  nuget/toastr.1.1.4.1.nupkg</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 19:22:43 +0000     2217 bytes  nuget/toastr.1.1.4.1.nuspec</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 19:22:43 +0000    11772 bytes  nuget/toastr.1.1.4.2.nupkg</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 19:22:43 +0000     2273 bytes  nuget/toastr.1.1.4.2.nuspec</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 19:22:43 +0000    11802 bytes  nuget/toastr.1.1.4.nupkg</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 19:22:43 +0000     2215 bytes  nuget/toastr.1.1.4.nuspec</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 19:22:43 +0000    11634 bytes  nuget/toastr.1.1.5.nupkg</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 19:22:43 +0000     1919 bytes  nuget/toastr.1.1.5.nuspec</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 19:22:43 +0000    11716 bytes  nuget/toastr.1.2.0.nupkg</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 19:22:43 +0000     1928 bytes  nuget/toastr.1.2.0.nuspec</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 19:22:43 +0000    11728 bytes  nuget/toastr.1.2.1.nupkg</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 19:22:43 +0000     1928 bytes  nuget/toastr.1.2.1.nuspec</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 19:22:43 +0000    11719 bytes  nuget/toastr.1.2.2.nupkg</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 19:22:43 +0000     1928 bytes  nuget/toastr.1.2.2.nuspec</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 19:22:43 +0000    15020 bytes  nuget/toastr.1.3.0.nupkg</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 19:22:43 +0000     2366 bytes  nuget/toastr.1.3.0.nuspec</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 19:22:43 +0000    15568 bytes  nuget/toastr.1.3.1.nupkg</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 19:22:43 +0000     2888 bytes  nuget/toastr.1.3.1.nuspec</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 19:22:43 +0000    19421 bytes  nuget/toastr.2.0.0-rc1.nupkg</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 19:22:43 +0000     2399 bytes  nuget/toastr.2.0.0-rc1.nuspec</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 19:22:43 +0000    19400 bytes  nuget/toastr.2.0.1.nupkg</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 19:22:43 +0000     2395 bytes  nuget/toastr.2.0.1.nuspec</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 19:22:43 +0000    23037 bytes  nuget/toastr.2.0.2.nupkg</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 19:22:43 +0000     2176 bytes  nuget/toastr.2.0.2.nuspec</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 19:22:43 +0000    23027 bytes  nuget/toastr.2.0.3.nupkg</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 19:22:43 +0000     2176 bytes  nuget/toastr.2.0.3.nuspec</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 19:22:43 +0000     3052 bytes  package.json</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 19:22:43 +0000     4789 bytes  package/CHANGELOG.md</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 19:22:43 +0000    22215 bytes  package/build/toastr.js.map</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 19:22:43 +0000     5738 bytes  package/build/toastr.min.css</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 19:22:43 +0000     4321 bytes  package/build/toastr.min.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 19:22:43 +0000    14415 bytes  package/demo.html</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 19:22:43 +0000     4996 bytes  package/gulpfile.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 19:22:43 +0000     2041 bytes  package/karma.conf.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 19:22:43 +0000     6757 bytes  package/nuget/content/content/toastr.css</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 19:22:43 +0000     6245 bytes  package/nuget/content/content/toastr.less</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 19:22:43 +0000     5420 bytes  package/nuget/content/content/toastr.min.css</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 19:22:43 +0000     6767 bytes  package/nuget/content/content/toastr.scss</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 19:22:43 +0000    12301 bytes  package/nuget/content/scripts/toastr.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 19:22:43 +0000     3695 bytes  package/nuget/content/scripts/toastr.min.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 19:22:43 +0000     7471 bytes  package/nuget/content/scripts/toastr.min.js.map</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 19:22:43 +0000     7341 bytes  package/nuget/toastr.1.0.0.nupkg</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 19:22:43 +0000     1577 bytes  package/nuget/toastr.1.0.0.nuspec</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 19:22:43 +0000     7745 bytes  package/nuget/toastr.1.0.1.nupkg</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 19:22:43 +0000     3764 bytes  package/nuget/toastr.1.0.1.nuspec</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 19:22:43 +0000     7794 bytes  package/nuget/toastr.1.0.2.nupkg</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 19:22:43 +0000     3914 bytes  package/nuget/toastr.1.0.2.nuspec</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 19:22:43 +0000     7761 bytes  package/nuget/toastr.1.0.3.nupkg</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 19:22:43 +0000     1934 bytes  package/nuget/toastr.1.0.3.nuspec</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 19:22:43 +0000     7789 bytes  package/nuget/toastr.1.1.0.nupkg</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 19:22:43 +0000     1894 bytes  package/nuget/toastr.1.1.0.nuspec</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 19:22:43 +0000     7789 bytes  package/nuget/toastr.1.1.1.nupkg</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 19:22:43 +0000     1894 bytes  package/nuget/toastr.1.1.1.nuspec</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 19:22:43 +0000     7850 bytes  package/nuget/toastr.1.1.2.nupkg</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 19:22:43 +0000     1917 bytes  package/nuget/toastr.1.1.2.nuspec</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 19:22:43 +0000    11781 bytes  package/nuget/toastr.1.1.3.nupkg</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 19:22:43 +0000    11768 bytes  package/nuget/toastr.1.1.4.1.nupkg</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 19:22:43 +0000     2217 bytes  package/nuget/toastr.1.1.4.1.nuspec</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 19:22:43 +0000    11772 bytes  package/nuget/toastr.1.1.4.2.nupkg</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 19:22:43 +0000     2273 bytes  package/nuget/toastr.1.1.4.2.nuspec</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 19:22:43 +0000    11802 bytes  package/nuget/toastr.1.1.4.nupkg</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 19:22:43 +0000     2215 bytes  package/nuget/toastr.1.1.4.nuspec</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 19:22:43 +0000    11634 bytes  package/nuget/toastr.1.1.5.nupkg</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 19:22:43 +0000     1919 bytes  package/nuget/toastr.1.1.5.nuspec</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 19:22:43 +0000    11716 bytes  package/nuget/toastr.1.2.0.nupkg</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 19:22:43 +0000     1928 bytes  package/nuget/toastr.1.2.0.nuspec</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 19:22:43 +0000    11728 bytes  package/nuget/toastr.1.2.1.nupkg</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 19:22:43 +0000     1928 bytes  package/nuget/toastr.1.2.1.nuspec</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 19:22:43 +0000    11719 bytes  package/nuget/toastr.1.2.2.nupkg</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 19:22:43 +0000     1928 bytes  package/nuget/toastr.1.2.2.nuspec</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 19:22:43 +0000    15020 bytes  package/nuget/toastr.1.3.0.nupkg</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 19:22:43 +0000     2366 bytes  package/nuget/toastr.1.3.0.nuspec</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 19:22:43 +0000    15568 bytes  package/nuget/toastr.1.3.1.nupkg</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 19:22:43 +0000     2888 bytes  package/nuget/toastr.1.3.1.nuspec</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 19:22:43 +0000    19421 bytes  package/nuget/toastr.2.0.0-rc1.nupkg</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 19:22:43 +0000     2399 bytes  package/nuget/toastr.2.0.0-rc1.nuspec</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 19:22:43 +0000    19400 bytes  package/nuget/toastr.2.0.1.nupkg</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 19:22:43 +0000     2395 bytes  package/nuget/toastr.2.0.1.nuspec</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 19:22:43 +0000    23037 bytes  package/nuget/toastr.2.0.2.nupkg</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 19:22:43 +0000     2176 bytes  package/nuget/toastr.2.0.2.nuspec</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 19:22:43 +0000    23027 bytes  package/nuget/toastr.2.0.3.nupkg</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 19:22:43 +0000     2176 bytes  package/nuget/toastr.2.0.3.nuspec</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 19:22:43 +0000     1821 bytes  package/package.json</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 19:22:43 +0000     4789 bytes  package/package/CHANGELOG.md</tspan>
-<tspan x="10" y="1882">116.  2017-04-18 19:22:43 +0000    22215 bytes  package/package/build/toastr.js.map</tspan>
-<tspan x="10" y="1898">117.  2017-04-18 19:22:43 +0000     5738 bytes  package/package/build/toastr.min.css</tspan>
-<tspan x="10" y="1914">118.  2017-04-18 19:22:43 +0000     4321 bytes  package/package/build/toastr.min.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-18 19:22:43 +0000    14415 bytes  package/package/demo.html</tspan>
-<tspan x="10" y="1946">120.  2017-04-18 19:22:43 +0000     4996 bytes  package/package/gulpfile.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-18 19:22:43 +0000     2041 bytes  package/package/karma.conf.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-18 19:22:43 +0000     6757 bytes  package/package/nuget/content/content/toastr.css</tspan>
-<tspan x="10" y="1994">123.  2017-04-18 19:22:43 +0000     6245 bytes  package/package/nuget/content/content/toastr.les\</tspan>
+<tspan x="10" y="26">  0.  2017-04-26 04:38:57 +0000  3673338 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 04:38:57 +0000     5401 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 04:38:57 +0000     6939 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 04:38:57 +0000     6982 bytes  build/toastr.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 04:38:57 +0000    23830 bytes  build/toastr.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 04:38:57 +0000     5993 bytes  build/toastr.min.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 04:38:57 +0000     4953 bytes  build/toastr.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 04:38:57 +0000    14410 bytes  demo.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 04:38:57 +0000     5064 bytes  gulpfile.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 04:38:57 +0000     2047 bytes  karma.conf.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 04:38:57 +0000     6757 bytes  nuget/content/content/toastr.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 04:38:57 +0000     6245 bytes  nuget/content/content/toastr.less</tspan>
+<tspan x="10" y="218"> 12.  2017-04-26 04:38:57 +0000     5420 bytes  nuget/content/content/toastr.min.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-26 04:38:57 +0000     6767 bytes  nuget/content/content/toastr.scss</tspan>
+<tspan x="10" y="250"> 14.  2017-04-26 04:38:57 +0000    12301 bytes  nuget/content/scripts/toastr.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-26 04:38:57 +0000     3695 bytes  nuget/content/scripts/toastr.min.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-26 04:38:57 +0000     7471 bytes  nuget/content/scripts/toastr.min.js.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-26 04:38:57 +0000     7341 bytes  nuget/toastr.1.0.0.nupkg</tspan>
+<tspan x="10" y="314"> 18.  2017-04-26 04:38:57 +0000     1577 bytes  nuget/toastr.1.0.0.nuspec</tspan>
+<tspan x="10" y="330"> 19.  2017-04-26 04:38:57 +0000     7745 bytes  nuget/toastr.1.0.1.nupkg</tspan>
+<tspan x="10" y="346"> 20.  2017-04-26 04:38:57 +0000     3764 bytes  nuget/toastr.1.0.1.nuspec</tspan>
+<tspan x="10" y="362"> 21.  2017-04-26 04:38:57 +0000     7794 bytes  nuget/toastr.1.0.2.nupkg</tspan>
+<tspan x="10" y="378"> 22.  2017-04-26 04:38:57 +0000     3914 bytes  nuget/toastr.1.0.2.nuspec</tspan>
+<tspan x="10" y="394"> 23.  2017-04-26 04:38:57 +0000     7761 bytes  nuget/toastr.1.0.3.nupkg</tspan>
+<tspan x="10" y="410"> 24.  2017-04-26 04:38:57 +0000     1934 bytes  nuget/toastr.1.0.3.nuspec</tspan>
+<tspan x="10" y="426"> 25.  2017-04-26 04:38:57 +0000     7789 bytes  nuget/toastr.1.1.0.nupkg</tspan>
+<tspan x="10" y="442"> 26.  2017-04-26 04:38:57 +0000     1894 bytes  nuget/toastr.1.1.0.nuspec</tspan>
+<tspan x="10" y="458"> 27.  2017-04-26 04:38:57 +0000     7789 bytes  nuget/toastr.1.1.1.nupkg</tspan>
+<tspan x="10" y="474"> 28.  2017-04-26 04:38:57 +0000     1894 bytes  nuget/toastr.1.1.1.nuspec</tspan>
+<tspan x="10" y="490"> 29.  2017-04-26 04:38:57 +0000     7850 bytes  nuget/toastr.1.1.2.nupkg</tspan>
+<tspan x="10" y="506"> 30.  2017-04-26 04:38:57 +0000     1917 bytes  nuget/toastr.1.1.2.nuspec</tspan>
+<tspan x="10" y="522"> 31.  2017-04-26 04:38:57 +0000    11781 bytes  nuget/toastr.1.1.3.nupkg</tspan>
+<tspan x="10" y="538"> 32.  2017-04-26 04:38:57 +0000    11768 bytes  nuget/toastr.1.1.4.1.nupkg</tspan>
+<tspan x="10" y="554"> 33.  2017-04-26 04:38:57 +0000     2217 bytes  nuget/toastr.1.1.4.1.nuspec</tspan>
+<tspan x="10" y="570"> 34.  2017-04-26 04:38:57 +0000    11772 bytes  nuget/toastr.1.1.4.2.nupkg</tspan>
+<tspan x="10" y="586"> 35.  2017-04-26 04:38:57 +0000     2273 bytes  nuget/toastr.1.1.4.2.nuspec</tspan>
+<tspan x="10" y="602"> 36.  2017-04-26 04:38:57 +0000    11802 bytes  nuget/toastr.1.1.4.nupkg</tspan>
+<tspan x="10" y="618"> 37.  2017-04-26 04:38:57 +0000     2215 bytes  nuget/toastr.1.1.4.nuspec</tspan>
+<tspan x="10" y="634"> 38.  2017-04-26 04:38:57 +0000    11634 bytes  nuget/toastr.1.1.5.nupkg</tspan>
+<tspan x="10" y="650"> 39.  2017-04-26 04:38:57 +0000     1919 bytes  nuget/toastr.1.1.5.nuspec</tspan>
+<tspan x="10" y="666"> 40.  2017-04-26 04:38:57 +0000    11716 bytes  nuget/toastr.1.2.0.nupkg</tspan>
+<tspan x="10" y="682"> 41.  2017-04-26 04:38:57 +0000     1928 bytes  nuget/toastr.1.2.0.nuspec</tspan>
+<tspan x="10" y="698"> 42.  2017-04-26 04:38:57 +0000    11728 bytes  nuget/toastr.1.2.1.nupkg</tspan>
+<tspan x="10" y="714"> 43.  2017-04-26 04:38:57 +0000     1928 bytes  nuget/toastr.1.2.1.nuspec</tspan>
+<tspan x="10" y="730"> 44.  2017-04-26 04:38:57 +0000    11719 bytes  nuget/toastr.1.2.2.nupkg</tspan>
+<tspan x="10" y="746"> 45.  2017-04-26 04:38:57 +0000     1928 bytes  nuget/toastr.1.2.2.nuspec</tspan>
+<tspan x="10" y="762"> 46.  2017-04-26 04:38:57 +0000    15020 bytes  nuget/toastr.1.3.0.nupkg</tspan>
+<tspan x="10" y="778"> 47.  2017-04-26 04:38:57 +0000     2366 bytes  nuget/toastr.1.3.0.nuspec</tspan>
+<tspan x="10" y="794"> 48.  2017-04-26 04:38:57 +0000    15568 bytes  nuget/toastr.1.3.1.nupkg</tspan>
+<tspan x="10" y="810"> 49.  2017-04-26 04:38:57 +0000     2888 bytes  nuget/toastr.1.3.1.nuspec</tspan>
+<tspan x="10" y="826"> 50.  2017-04-26 04:38:57 +0000    19421 bytes  nuget/toastr.2.0.0-rc1.nupkg</tspan>
+<tspan x="10" y="842"> 51.  2017-04-26 04:38:57 +0000     2399 bytes  nuget/toastr.2.0.0-rc1.nuspec</tspan>
+<tspan x="10" y="858"> 52.  2017-04-26 04:38:57 +0000    19400 bytes  nuget/toastr.2.0.1.nupkg</tspan>
+<tspan x="10" y="874"> 53.  2017-04-26 04:38:57 +0000     2395 bytes  nuget/toastr.2.0.1.nuspec</tspan>
+<tspan x="10" y="890"> 54.  2017-04-26 04:38:57 +0000    23037 bytes  nuget/toastr.2.0.2.nupkg</tspan>
+<tspan x="10" y="906"> 55.  2017-04-26 04:38:57 +0000     2176 bytes  nuget/toastr.2.0.2.nuspec</tspan>
+<tspan x="10" y="922"> 56.  2017-04-26 04:38:57 +0000    23027 bytes  nuget/toastr.2.0.3.nupkg</tspan>
+<tspan x="10" y="938"> 57.  2017-04-26 04:38:57 +0000     2176 bytes  nuget/toastr.2.0.3.nuspec</tspan>
+<tspan x="10" y="954"> 58.  2017-04-26 04:38:57 +0000     3052 bytes  package.json</tspan>
+<tspan x="10" y="970"> 59.  2017-04-26 04:38:57 +0000     4789 bytes  package/CHANGELOG.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-26 04:38:57 +0000    22215 bytes  package/build/toastr.js.map</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-26 04:38:57 +0000     5738 bytes  package/build/toastr.min.css</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-26 04:38:57 +0000     4321 bytes  package/build/toastr.min.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-26 04:38:57 +0000    14415 bytes  package/demo.html</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-26 04:38:57 +0000     4996 bytes  package/gulpfile.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-26 04:38:57 +0000     2041 bytes  package/karma.conf.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-26 04:38:57 +0000     6757 bytes  package/nuget/content/content/toastr.css</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-26 04:38:57 +0000     6245 bytes  package/nuget/content/content/toastr.less</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-26 04:38:57 +0000     5420 bytes  package/nuget/content/content/toastr.min.css</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-26 04:38:57 +0000     6767 bytes  package/nuget/content/content/toastr.scss</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-26 04:38:57 +0000    12301 bytes  package/nuget/content/scripts/toastr.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-26 04:38:57 +0000     3695 bytes  package/nuget/content/scripts/toastr.min.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-26 04:38:57 +0000     7471 bytes  package/nuget/content/scripts/toastr.min.js.map</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-26 04:38:57 +0000     7341 bytes  package/nuget/toastr.1.0.0.nupkg</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-26 04:38:57 +0000     1577 bytes  package/nuget/toastr.1.0.0.nuspec</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-26 04:38:57 +0000     7745 bytes  package/nuget/toastr.1.0.1.nupkg</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-26 04:38:57 +0000     3764 bytes  package/nuget/toastr.1.0.1.nuspec</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-26 04:38:57 +0000     7794 bytes  package/nuget/toastr.1.0.2.nupkg</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-26 04:38:57 +0000     3914 bytes  package/nuget/toastr.1.0.2.nuspec</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-26 04:38:57 +0000     7761 bytes  package/nuget/toastr.1.0.3.nupkg</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-26 04:38:57 +0000     1934 bytes  package/nuget/toastr.1.0.3.nuspec</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-26 04:38:57 +0000     7789 bytes  package/nuget/toastr.1.1.0.nupkg</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-26 04:38:57 +0000     1894 bytes  package/nuget/toastr.1.1.0.nuspec</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-26 04:38:57 +0000     7789 bytes  package/nuget/toastr.1.1.1.nupkg</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-26 04:38:57 +0000     1894 bytes  package/nuget/toastr.1.1.1.nuspec</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-26 04:38:57 +0000     7850 bytes  package/nuget/toastr.1.1.2.nupkg</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-26 04:38:57 +0000     1917 bytes  package/nuget/toastr.1.1.2.nuspec</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-26 04:38:57 +0000    11781 bytes  package/nuget/toastr.1.1.3.nupkg</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-26 04:38:57 +0000    11768 bytes  package/nuget/toastr.1.1.4.1.nupkg</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-26 04:38:57 +0000     2217 bytes  package/nuget/toastr.1.1.4.1.nuspec</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-26 04:38:57 +0000    11772 bytes  package/nuget/toastr.1.1.4.2.nupkg</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-26 04:38:57 +0000     2273 bytes  package/nuget/toastr.1.1.4.2.nuspec</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-26 04:38:57 +0000    11802 bytes  package/nuget/toastr.1.1.4.nupkg</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-26 04:38:57 +0000     2215 bytes  package/nuget/toastr.1.1.4.nuspec</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-26 04:38:57 +0000    11634 bytes  package/nuget/toastr.1.1.5.nupkg</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-26 04:38:57 +0000     1919 bytes  package/nuget/toastr.1.1.5.nuspec</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-26 04:38:57 +0000    11716 bytes  package/nuget/toastr.1.2.0.nupkg</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-26 04:38:57 +0000     1928 bytes  package/nuget/toastr.1.2.0.nuspec</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-26 04:38:57 +0000    11728 bytes  package/nuget/toastr.1.2.1.nupkg</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-26 04:38:57 +0000     1928 bytes  package/nuget/toastr.1.2.1.nuspec</tspan>
+<tspan x="10" y="1626">100.  2017-04-26 04:38:57 +0000    11719 bytes  package/nuget/toastr.1.2.2.nupkg</tspan>
+<tspan x="10" y="1642">101.  2017-04-26 04:38:57 +0000     1928 bytes  package/nuget/toastr.1.2.2.nuspec</tspan>
+<tspan x="10" y="1658">102.  2017-04-26 04:38:57 +0000    15020 bytes  package/nuget/toastr.1.3.0.nupkg</tspan>
+<tspan x="10" y="1674">103.  2017-04-26 04:38:57 +0000     2366 bytes  package/nuget/toastr.1.3.0.nuspec</tspan>
+<tspan x="10" y="1690">104.  2017-04-26 04:38:57 +0000    15568 bytes  package/nuget/toastr.1.3.1.nupkg</tspan>
+<tspan x="10" y="1706">105.  2017-04-26 04:38:57 +0000     2888 bytes  package/nuget/toastr.1.3.1.nuspec</tspan>
+<tspan x="10" y="1722">106.  2017-04-26 04:38:57 +0000    19421 bytes  package/nuget/toastr.2.0.0-rc1.nupkg</tspan>
+<tspan x="10" y="1738">107.  2017-04-26 04:38:57 +0000     2399 bytes  package/nuget/toastr.2.0.0-rc1.nuspec</tspan>
+<tspan x="10" y="1754">108.  2017-04-26 04:38:57 +0000    19400 bytes  package/nuget/toastr.2.0.1.nupkg</tspan>
+<tspan x="10" y="1770">109.  2017-04-26 04:38:57 +0000     2395 bytes  package/nuget/toastr.2.0.1.nuspec</tspan>
+<tspan x="10" y="1786">110.  2017-04-26 04:38:57 +0000    23037 bytes  package/nuget/toastr.2.0.2.nupkg</tspan>
+<tspan x="10" y="1802">111.  2017-04-26 04:38:57 +0000     2176 bytes  package/nuget/toastr.2.0.2.nuspec</tspan>
+<tspan x="10" y="1818">112.  2017-04-26 04:38:57 +0000    23027 bytes  package/nuget/toastr.2.0.3.nupkg</tspan>
+<tspan x="10" y="1834">113.  2017-04-26 04:38:57 +0000     2176 bytes  package/nuget/toastr.2.0.3.nuspec</tspan>
+<tspan x="10" y="1850">114.  2017-04-26 04:38:57 +0000     1821 bytes  package/package.json</tspan>
+<tspan x="10" y="1866">115.  2017-04-26 04:38:57 +0000     4789 bytes  package/package/CHANGELOG.md</tspan>
+<tspan x="10" y="1882">116.  2017-04-26 04:38:57 +0000    22215 bytes  package/package/build/toastr.js.map</tspan>
+<tspan x="10" y="1898">117.  2017-04-26 04:38:57 +0000     5738 bytes  package/package/build/toastr.min.css</tspan>
+<tspan x="10" y="1914">118.  2017-04-26 04:38:57 +0000     4321 bytes  package/package/build/toastr.min.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-26 04:38:57 +0000    14415 bytes  package/package/demo.html</tspan>
+<tspan x="10" y="1946">120.  2017-04-26 04:38:57 +0000     4996 bytes  package/package/gulpfile.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-26 04:38:57 +0000     2041 bytes  package/package/karma.conf.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-26 04:38:57 +0000     6757 bytes  package/package/nuget/content/content/toastr.css</tspan>
+<tspan x="10" y="1994">123.  2017-04-26 04:38:57 +0000     6245 bytes  package/package/nuget/content/content/toastr.les\</tspan>
 <tspan x="10" y="2010">s</tspan>
-<tspan x="10" y="2026">124.  2017-04-18 19:22:43 +0000     5420 bytes  package/package/nuget/content/content/toastr.min\</tspan>
+<tspan x="10" y="2026">124.  2017-04-26 04:38:57 +0000     5420 bytes  package/package/nuget/content/content/toastr.min\</tspan>
 <tspan x="10" y="2042">.css</tspan>
-<tspan x="10" y="2058">125.  2017-04-18 19:22:43 +0000     6767 bytes  package/package/nuget/content/content/toastr.scs\</tspan>
+<tspan x="10" y="2058">125.  2017-04-26 04:38:57 +0000     6767 bytes  package/package/nuget/content/content/toastr.scs\</tspan>
 <tspan x="10" y="2074">s</tspan>
-<tspan x="10" y="2090">126.  2017-04-18 19:22:43 +0000    12301 bytes  package/package/nuget/content/scripts/toastr.js</tspan>
-<tspan x="10" y="2106">127.  2017-04-18 19:22:43 +0000     3695 bytes  package/package/nuget/content/scripts/toastr.min\</tspan>
+<tspan x="10" y="2090">126.  2017-04-26 04:38:57 +0000    12301 bytes  package/package/nuget/content/scripts/toastr.js</tspan>
+<tspan x="10" y="2106">127.  2017-04-26 04:38:57 +0000     3695 bytes  package/package/nuget/content/scripts/toastr.min\</tspan>
 <tspan x="10" y="2122">.js</tspan>
-<tspan x="10" y="2138">128.  2017-04-18 19:22:43 +0000     7471 bytes  package/package/nuget/content/scripts/toastr.min\</tspan>
+<tspan x="10" y="2138">128.  2017-04-26 04:38:57 +0000     7471 bytes  package/package/nuget/content/scripts/toastr.min\</tspan>
 <tspan x="10" y="2154">.js.map</tspan>
-<tspan x="10" y="2170">129.  2017-04-18 19:22:43 +0000     7341 bytes  package/package/nuget/toastr.1.0.0.nupkg</tspan>
-<tspan x="10" y="2186">130.  2017-04-18 19:22:43 +0000     1577 bytes  package/package/nuget/toastr.1.0.0.nuspec</tspan>
-<tspan x="10" y="2202">131.  2017-04-18 19:22:43 +0000     7745 bytes  package/package/nuget/toastr.1.0.1.nupkg</tspan>
-<tspan x="10" y="2218">132.  2017-04-18 19:22:43 +0000     3764 bytes  package/package/nuget/toastr.1.0.1.nuspec</tspan>
-<tspan x="10" y="2234">133.  2017-04-18 19:22:43 +0000     7794 bytes  package/package/nuget/toastr.1.0.2.nupkg</tspan>
-<tspan x="10" y="2250">134.  2017-04-18 19:22:43 +0000     3914 bytes  package/package/nuget/toastr.1.0.2.nuspec</tspan>
-<tspan x="10" y="2266">135.  2017-04-18 19:22:43 +0000     7761 bytes  package/package/nuget/toastr.1.0.3.nupkg</tspan>
-<tspan x="10" y="2282">136.  2017-04-18 19:22:43 +0000     1934 bytes  package/package/nuget/toastr.1.0.3.nuspec</tspan>
-<tspan x="10" y="2298">137.  2017-04-18 19:22:43 +0000     7789 bytes  package/package/nuget/toastr.1.1.0.nupkg</tspan>
-<tspan x="10" y="2314">138.  2017-04-18 19:22:43 +0000     1894 bytes  package/package/nuget/toastr.1.1.0.nuspec</tspan>
-<tspan x="10" y="2330">139.  2017-04-18 19:22:43 +0000     7789 bytes  package/package/nuget/toastr.1.1.1.nupkg</tspan>
-<tspan x="10" y="2346">140.  2017-04-18 19:22:43 +0000     1894 bytes  package/package/nuget/toastr.1.1.1.nuspec</tspan>
-<tspan x="10" y="2362">141.  2017-04-18 19:22:43 +0000     7850 bytes  package/package/nuget/toastr.1.1.2.nupkg</tspan>
-<tspan x="10" y="2378">142.  2017-04-18 19:22:43 +0000     1917 bytes  package/package/nuget/toastr.1.1.2.nuspec</tspan>
-<tspan x="10" y="2394">143.  2017-04-18 19:22:43 +0000    11781 bytes  package/package/nuget/toastr.1.1.3.nupkg</tspan>
-<tspan x="10" y="2410">144.  2017-04-18 19:22:43 +0000    11768 bytes  package/package/nuget/toastr.1.1.4.1.nupkg</tspan>
-<tspan x="10" y="2426">145.  2017-04-18 19:22:43 +0000     2217 bytes  package/package/nuget/toastr.1.1.4.1.nuspec</tspan>
-<tspan x="10" y="2442">146.  2017-04-18 19:22:43 +0000    11772 bytes  package/package/nuget/toastr.1.1.4.2.nupkg</tspan>
-<tspan x="10" y="2458">147.  2017-04-18 19:22:43 +0000     2273 bytes  package/package/nuget/toastr.1.1.4.2.nuspec</tspan>
-<tspan x="10" y="2474">148.  2017-04-18 19:22:43 +0000    11802 bytes  package/package/nuget/toastr.1.1.4.nupkg</tspan>
-<tspan x="10" y="2490">149.  2017-04-18 19:22:43 +0000     2215 bytes  package/package/nuget/toastr.1.1.4.nuspec</tspan>
-<tspan x="10" y="2506">150.  2017-04-18 19:22:43 +0000    11634 bytes  package/package/nuget/toastr.1.1.5.nupkg</tspan>
-<tspan x="10" y="2522">151.  2017-04-18 19:22:43 +0000     1919 bytes  package/package/nuget/toastr.1.1.5.nuspec</tspan>
-<tspan x="10" y="2538">152.  2017-04-18 19:22:43 +0000    11716 bytes  package/package/nuget/toastr.1.2.0.nupkg</tspan>
-<tspan x="10" y="2554">153.  2017-04-18 19:22:43 +0000     1928 bytes  package/package/nuget/toastr.1.2.0.nuspec</tspan>
-<tspan x="10" y="2570">154.  2017-04-18 19:22:43 +0000    11728 bytes  package/package/nuget/toastr.1.2.1.nupkg</tspan>
-<tspan x="10" y="2586">155.  2017-04-18 19:22:43 +0000     1928 bytes  package/package/nuget/toastr.1.2.1.nuspec</tspan>
-<tspan x="10" y="2602">156.  2017-04-18 19:22:43 +0000    11719 bytes  package/package/nuget/toastr.1.2.2.nupkg</tspan>
-<tspan x="10" y="2618">157.  2017-04-18 19:22:43 +0000     1928 bytes  package/package/nuget/toastr.1.2.2.nuspec</tspan>
-<tspan x="10" y="2634">158.  2017-04-18 19:22:43 +0000    15020 bytes  package/package/nuget/toastr.1.3.0.nupkg</tspan>
-<tspan x="10" y="2650">159.  2017-04-18 19:22:43 +0000     2366 bytes  package/package/nuget/toastr.1.3.0.nuspec</tspan>
-<tspan x="10" y="2666">160.  2017-04-18 19:22:43 +0000    15568 bytes  package/package/nuget/toastr.1.3.1.nupkg</tspan>
-<tspan x="10" y="2682">161.  2017-04-18 19:22:43 +0000     2888 bytes  package/package/nuget/toastr.1.3.1.nuspec</tspan>
-<tspan x="10" y="2698">162.  2017-04-18 19:22:43 +0000    19421 bytes  package/package/nuget/toastr.2.0.0-rc1.nupkg</tspan>
-<tspan x="10" y="2714">163.  2017-04-18 19:22:43 +0000     2399 bytes  package/package/nuget/toastr.2.0.0-rc1.nuspec</tspan>
-<tspan x="10" y="2730">164.  2017-04-18 19:22:43 +0000    19400 bytes  package/package/nuget/toastr.2.0.1.nupkg</tspan>
-<tspan x="10" y="2746">165.  2017-04-18 19:22:43 +0000     2395 bytes  package/package/nuget/toastr.2.0.1.nuspec</tspan>
-<tspan x="10" y="2762">166.  2017-04-18 19:22:43 +0000    23037 bytes  package/package/nuget/toastr.2.0.2.nupkg</tspan>
-<tspan x="10" y="2778">167.  2017-04-18 19:22:43 +0000     2176 bytes  package/package/nuget/toastr.2.0.2.nuspec</tspan>
-<tspan x="10" y="2794">168.  2017-04-18 19:22:43 +0000    23027 bytes  package/package/nuget/toastr.2.0.3.nupkg</tspan>
-<tspan x="10" y="2810">169.  2017-04-18 19:22:43 +0000     2176 bytes  package/package/nuget/toastr.2.0.3.nuspec</tspan>
-<tspan x="10" y="2826">170.  2017-04-18 19:22:43 +0000     1821 bytes  package/package/package.json</tspan>
-<tspan x="10" y="2842">171.  2017-04-18 19:22:43 +0000     6207 bytes  package/package/readme.md</tspan>
+<tspan x="10" y="2170">129.  2017-04-26 04:38:57 +0000     7341 bytes  package/package/nuget/toastr.1.0.0.nupkg</tspan>
+<tspan x="10" y="2186">130.  2017-04-26 04:38:57 +0000     1577 bytes  package/package/nuget/toastr.1.0.0.nuspec</tspan>
+<tspan x="10" y="2202">131.  2017-04-26 04:38:57 +0000     7745 bytes  package/package/nuget/toastr.1.0.1.nupkg</tspan>
+<tspan x="10" y="2218">132.  2017-04-26 04:38:57 +0000     3764 bytes  package/package/nuget/toastr.1.0.1.nuspec</tspan>
+<tspan x="10" y="2234">133.  2017-04-26 04:38:57 +0000     7794 bytes  package/package/nuget/toastr.1.0.2.nupkg</tspan>
+<tspan x="10" y="2250">134.  2017-04-26 04:38:57 +0000     3914 bytes  package/package/nuget/toastr.1.0.2.nuspec</tspan>
+<tspan x="10" y="2266">135.  2017-04-26 04:38:57 +0000     7761 bytes  package/package/nuget/toastr.1.0.3.nupkg</tspan>
+<tspan x="10" y="2282">136.  2017-04-26 04:38:57 +0000     1934 bytes  package/package/nuget/toastr.1.0.3.nuspec</tspan>
+<tspan x="10" y="2298">137.  2017-04-26 04:38:57 +0000     7789 bytes  package/package/nuget/toastr.1.1.0.nupkg</tspan>
+<tspan x="10" y="2314">138.  2017-04-26 04:38:57 +0000     1894 bytes  package/package/nuget/toastr.1.1.0.nuspec</tspan>
+<tspan x="10" y="2330">139.  2017-04-26 04:38:57 +0000     7789 bytes  package/package/nuget/toastr.1.1.1.nupkg</tspan>
+<tspan x="10" y="2346">140.  2017-04-26 04:38:57 +0000     1894 bytes  package/package/nuget/toastr.1.1.1.nuspec</tspan>
+<tspan x="10" y="2362">141.  2017-04-26 04:38:57 +0000     7850 bytes  package/package/nuget/toastr.1.1.2.nupkg</tspan>
+<tspan x="10" y="2378">142.  2017-04-26 04:38:57 +0000     1917 bytes  package/package/nuget/toastr.1.1.2.nuspec</tspan>
+<tspan x="10" y="2394">143.  2017-04-26 04:38:57 +0000    11781 bytes  package/package/nuget/toastr.1.1.3.nupkg</tspan>
+<tspan x="10" y="2410">144.  2017-04-26 04:38:57 +0000    11768 bytes  package/package/nuget/toastr.1.1.4.1.nupkg</tspan>
+<tspan x="10" y="2426">145.  2017-04-26 04:38:57 +0000     2217 bytes  package/package/nuget/toastr.1.1.4.1.nuspec</tspan>
+<tspan x="10" y="2442">146.  2017-04-26 04:38:57 +0000    11772 bytes  package/package/nuget/toastr.1.1.4.2.nupkg</tspan>
+<tspan x="10" y="2458">147.  2017-04-26 04:38:57 +0000     2273 bytes  package/package/nuget/toastr.1.1.4.2.nuspec</tspan>
+<tspan x="10" y="2474">148.  2017-04-26 04:38:57 +0000    11802 bytes  package/package/nuget/toastr.1.1.4.nupkg</tspan>
+<tspan x="10" y="2490">149.  2017-04-26 04:38:57 +0000     2215 bytes  package/package/nuget/toastr.1.1.4.nuspec</tspan>
+<tspan x="10" y="2506">150.  2017-04-26 04:38:57 +0000    11634 bytes  package/package/nuget/toastr.1.1.5.nupkg</tspan>
+<tspan x="10" y="2522">151.  2017-04-26 04:38:57 +0000     1919 bytes  package/package/nuget/toastr.1.1.5.nuspec</tspan>
+<tspan x="10" y="2538">152.  2017-04-26 04:38:57 +0000    11716 bytes  package/package/nuget/toastr.1.2.0.nupkg</tspan>
+<tspan x="10" y="2554">153.  2017-04-26 04:38:57 +0000     1928 bytes  package/package/nuget/toastr.1.2.0.nuspec</tspan>
+<tspan x="10" y="2570">154.  2017-04-26 04:38:57 +0000    11728 bytes  package/package/nuget/toastr.1.2.1.nupkg</tspan>
+<tspan x="10" y="2586">155.  2017-04-26 04:38:57 +0000     1928 bytes  package/package/nuget/toastr.1.2.1.nuspec</tspan>
+<tspan x="10" y="2602">156.  2017-04-26 04:38:57 +0000    11719 bytes  package/package/nuget/toastr.1.2.2.nupkg</tspan>
+<tspan x="10" y="2618">157.  2017-04-26 04:38:57 +0000     1928 bytes  package/package/nuget/toastr.1.2.2.nuspec</tspan>
+<tspan x="10" y="2634">158.  2017-04-26 04:38:57 +0000    15020 bytes  package/package/nuget/toastr.1.3.0.nupkg</tspan>
+<tspan x="10" y="2650">159.  2017-04-26 04:38:57 +0000     2366 bytes  package/package/nuget/toastr.1.3.0.nuspec</tspan>
+<tspan x="10" y="2666">160.  2017-04-26 04:38:57 +0000    15568 bytes  package/package/nuget/toastr.1.3.1.nupkg</tspan>
+<tspan x="10" y="2682">161.  2017-04-26 04:38:57 +0000     2888 bytes  package/package/nuget/toastr.1.3.1.nuspec</tspan>
+<tspan x="10" y="2698">162.  2017-04-26 04:38:57 +0000    19421 bytes  package/package/nuget/toastr.2.0.0-rc1.nupkg</tspan>
+<tspan x="10" y="2714">163.  2017-04-26 04:38:57 +0000     2399 bytes  package/package/nuget/toastr.2.0.0-rc1.nuspec</tspan>
+<tspan x="10" y="2730">164.  2017-04-26 04:38:57 +0000    19400 bytes  package/package/nuget/toastr.2.0.1.nupkg</tspan>
+<tspan x="10" y="2746">165.  2017-04-26 04:38:57 +0000     2395 bytes  package/package/nuget/toastr.2.0.1.nuspec</tspan>
+<tspan x="10" y="2762">166.  2017-04-26 04:38:57 +0000    23037 bytes  package/package/nuget/toastr.2.0.2.nupkg</tspan>
+<tspan x="10" y="2778">167.  2017-04-26 04:38:57 +0000     2176 bytes  package/package/nuget/toastr.2.0.2.nuspec</tspan>
+<tspan x="10" y="2794">168.  2017-04-26 04:38:57 +0000    23027 bytes  package/package/nuget/toastr.2.0.3.nupkg</tspan>
+<tspan x="10" y="2810">169.  2017-04-26 04:38:57 +0000     2176 bytes  package/package/nuget/toastr.2.0.3.nuspec</tspan>
+<tspan x="10" y="2826">170.  2017-04-26 04:38:57 +0000     1821 bytes  package/package/package.json</tspan>
+<tspan x="10" y="2842">171.  2017-04-26 04:38:57 +0000     6207 bytes  package/package/readme.md</tspan>
 <tspan x="10" y="2858">ls: cannot access package/package/release: No such file or directory</tspan>
 <tspan x="10" y="2874">ls: cannot access checklist.md: No such file or directory</tspan>
-<tspan x="10" y="2890">172.  2017-04-18 19:22:43 +0000     6207 bytes  package/package/release checklist.md</tspan>
-<tspan x="10" y="2906">173.  2017-04-18 19:22:43 +0000     4668 bytes  package/package/tests/qunit/qunit.css</tspan>
-<tspan x="10" y="2922">174.  2017-04-18 19:22:43 +0000    58796 bytes  package/package/tests/qunit/qunit.js</tspan>
-<tspan x="10" y="2938">175.  2017-04-18 19:22:43 +0000      765 bytes  package/package/tests/toastr-tests.html</tspan>
-<tspan x="10" y="2954">176.  2017-04-18 19:22:43 +0000      274 bytes  package/package/tests/unit/qunit-helper.js</tspan>
-<tspan x="10" y="2970">177.  2017-04-18 19:22:43 +0000    22274 bytes  package/package/tests/unit/toastr-tests.js</tspan>
-<tspan x="10" y="2986">178.  2017-04-18 19:22:43 +0000       82 bytes  package/package/tests/unit/x.js</tspan>
-<tspan x="10" y="3002">179.  2017-04-18 19:22:43 +0000   435047 bytes  package/package/toastr-2.1.2.tgz</tspan>
-<tspan x="10" y="3018">180.  2017-04-18 19:22:43 +0000    25510 bytes  package/package/toastr-icon.png</tspan>
-<tspan x="10" y="3034">181.  2017-04-18 19:22:43 +0000     6881 bytes  package/package/toastr.css</tspan>
-<tspan x="10" y="3050">182.  2017-04-18 19:22:43 +0000    15319 bytes  package/package/toastr.js</tspan>
-<tspan x="10" y="3066">183.  2017-04-18 19:22:43 +0000     6755 bytes  package/package/toastr.less</tspan>
-<tspan x="10" y="3082">184.  2017-04-18 19:22:43 +0000     6883 bytes  package/package/toastr.scss</tspan>
-<tspan x="10" y="3098">185.  2017-04-18 19:22:43 +0000     6207 bytes  package/readme.md</tspan>
+<tspan x="10" y="2890">172.  2017-04-26 04:38:57 +0000     6207 bytes  package/package/release checklist.md</tspan>
+<tspan x="10" y="2906">173.  2017-04-26 04:38:57 +0000     4668 bytes  package/package/tests/qunit/qunit.css</tspan>
+<tspan x="10" y="2922">174.  2017-04-26 04:38:57 +0000    58796 bytes  package/package/tests/qunit/qunit.js</tspan>
+<tspan x="10" y="2938">175.  2017-04-26 04:38:57 +0000      765 bytes  package/package/tests/toastr-tests.html</tspan>
+<tspan x="10" y="2954">176.  2017-04-26 04:38:57 +0000      274 bytes  package/package/tests/unit/qunit-helper.js</tspan>
+<tspan x="10" y="2970">177.  2017-04-26 04:38:57 +0000    22274 bytes  package/package/tests/unit/toastr-tests.js</tspan>
+<tspan x="10" y="2986">178.  2017-04-26 04:38:57 +0000       82 bytes  package/package/tests/unit/x.js</tspan>
+<tspan x="10" y="3002">179.  2017-04-26 04:38:57 +0000   435047 bytes  package/package/toastr-2.1.2.tgz</tspan>
+<tspan x="10" y="3018">180.  2017-04-26 04:38:57 +0000    25510 bytes  package/package/toastr-icon.png</tspan>
+<tspan x="10" y="3034">181.  2017-04-26 04:38:57 +0000     6881 bytes  package/package/toastr.css</tspan>
+<tspan x="10" y="3050">182.  2017-04-26 04:38:57 +0000    15319 bytes  package/package/toastr.js</tspan>
+<tspan x="10" y="3066">183.  2017-04-26 04:38:57 +0000     6755 bytes  package/package/toastr.less</tspan>
+<tspan x="10" y="3082">184.  2017-04-26 04:38:57 +0000     6883 bytes  package/package/toastr.scss</tspan>
+<tspan x="10" y="3098">185.  2017-04-26 04:38:57 +0000     6207 bytes  package/readme.md</tspan>
 <tspan x="10" y="3114">ls: cannot access package/release: No such file or directory</tspan>
 <tspan x="10" y="3130">ls: cannot access checklist.md: No such file or directory</tspan>
-<tspan x="10" y="3146">186.  2017-04-18 19:22:43 +0000     6207 bytes  package/release checklist.md</tspan>
-<tspan x="10" y="3162">187.  2017-04-18 19:22:43 +0000     4668 bytes  package/tests/qunit/qunit.css</tspan>
-<tspan x="10" y="3178">188.  2017-04-18 19:22:43 +0000    58796 bytes  package/tests/qunit/qunit.js</tspan>
-<tspan x="10" y="3194">189.  2017-04-18 19:22:43 +0000      765 bytes  package/tests/toastr-tests.html</tspan>
-<tspan x="10" y="3210">190.  2017-04-18 19:22:43 +0000      274 bytes  package/tests/unit/qunit-helper.js</tspan>
-<tspan x="10" y="3226">191.  2017-04-18 19:22:43 +0000    22274 bytes  package/tests/unit/toastr-tests.js</tspan>
-<tspan x="10" y="3242">192.  2017-04-18 19:22:43 +0000       82 bytes  package/tests/unit/x.js</tspan>
-<tspan x="10" y="3258">193.  2017-04-18 19:22:43 +0000  1491899 bytes  package/toastr-2.1.2.tgz</tspan>
-<tspan x="10" y="3274">194.  2017-04-18 19:22:43 +0000    25510 bytes  package/toastr-icon.png</tspan>
-<tspan x="10" y="3290">195.  2017-04-18 19:22:43 +0000     6881 bytes  package/toastr.css</tspan>
-<tspan x="10" y="3306">196.  2017-04-18 19:22:43 +0000    15319 bytes  package/toastr.js</tspan>
-<tspan x="10" y="3322">197.  2017-04-18 19:22:43 +0000     6755 bytes  package/toastr.less</tspan>
-<tspan x="10" y="3338">198.  2017-04-18 19:22:43 +0000     6883 bytes  package/toastr.scss</tspan>
+<tspan x="10" y="3146">186.  2017-04-26 04:38:57 +0000     6207 bytes  package/release checklist.md</tspan>
+<tspan x="10" y="3162">187.  2017-04-26 04:38:57 +0000     4668 bytes  package/tests/qunit/qunit.css</tspan>
+<tspan x="10" y="3178">188.  2017-04-26 04:38:57 +0000    58796 bytes  package/tests/qunit/qunit.js</tspan>
+<tspan x="10" y="3194">189.  2017-04-26 04:38:57 +0000      765 bytes  package/tests/toastr-tests.html</tspan>
+<tspan x="10" y="3210">190.  2017-04-26 04:38:57 +0000      274 bytes  package/tests/unit/qunit-helper.js</tspan>
+<tspan x="10" y="3226">191.  2017-04-26 04:38:57 +0000    22274 bytes  package/tests/unit/toastr-tests.js</tspan>
+<tspan x="10" y="3242">192.  2017-04-26 04:38:57 +0000       82 bytes  package/tests/unit/x.js</tspan>
+<tspan x="10" y="3258">193.  2017-04-26 04:38:57 +0000  1491899 bytes  package/toastr-2.1.2.tgz</tspan>
+<tspan x="10" y="3274">194.  2017-04-26 04:38:57 +0000    25510 bytes  package/toastr-icon.png</tspan>
+<tspan x="10" y="3290">195.  2017-04-26 04:38:57 +0000     6881 bytes  package/toastr.css</tspan>
+<tspan x="10" y="3306">196.  2017-04-26 04:38:57 +0000    15319 bytes  package/toastr.js</tspan>
+<tspan x="10" y="3322">197.  2017-04-26 04:38:57 +0000     6755 bytes  package/toastr.less</tspan>
+<tspan x="10" y="3338">198.  2017-04-26 04:38:57 +0000     6883 bytes  package/toastr.scss</tspan>
 <tspan x="10" y="3354">ls: cannot access release: No such file or directory</tspan>
 <tspan x="10" y="3370">ls: cannot access checklist.md: No such file or directory</tspan>
-<tspan x="10" y="3386">199.  2017-04-18 19:22:43 +0000     6883 bytes  release checklist.md</tspan>
-<tspan x="10" y="3402">200.  2017-04-18 19:22:43 +0000     4668 bytes  tests/qunit/qunit.css</tspan>
-<tspan x="10" y="3418">201.  2017-04-18 19:22:43 +0000    58796 bytes  tests/qunit/qunit.js</tspan>
-<tspan x="10" y="3434">202.  2017-04-18 19:22:43 +0000      765 bytes  tests/toastr-tests.html</tspan>
-<tspan x="10" y="3450">203.  2017-04-18 19:22:43 +0000      274 bytes  tests/unit/qunit-helper.js</tspan>
-<tspan x="10" y="3466">204.  2017-04-18 19:22:43 +0000    25265 bytes  tests/unit/toastr-tests.js</tspan>
-<tspan x="10" y="3482">205.  2017-04-18 19:22:43 +0000       82 bytes  tests/unit/x.js</tspan>
-<tspan x="10" y="3498">206.  2017-04-18 19:22:43 +0000    25510 bytes  toastr-icon.png</tspan>
-<tspan x="10" y="3514">207.  2017-04-18 19:22:43 +0000    16360 bytes  toastr.js</tspan>
-<tspan x="10" y="3530">208.  2017-04-18 19:22:43 +0000     6861 bytes  toastr.less</tspan>
-<tspan x="10" y="3546">209.  2017-04-18 19:22:43 +0000     6883 bytes  toastr.scss</tspan>
+<tspan x="10" y="3386">199.  2017-04-26 04:38:57 +0000     6883 bytes  release checklist.md</tspan>
+<tspan x="10" y="3402">200.  2017-04-26 04:38:57 +0000     4668 bytes  tests/qunit/qunit.css</tspan>
+<tspan x="10" y="3418">201.  2017-04-26 04:38:57 +0000    58796 bytes  tests/qunit/qunit.js</tspan>
+<tspan x="10" y="3434">202.  2017-04-26 04:38:57 +0000      765 bytes  tests/toastr-tests.html</tspan>
+<tspan x="10" y="3450">203.  2017-04-26 04:38:57 +0000      274 bytes  tests/unit/qunit-helper.js</tspan>
+<tspan x="10" y="3466">204.  2017-04-26 04:38:57 +0000    25265 bytes  tests/unit/toastr-tests.js</tspan>
+<tspan x="10" y="3482">205.  2017-04-26 04:38:57 +0000       82 bytes  tests/unit/x.js</tspan>
+<tspan x="10" y="3498">206.  2017-04-26 04:38:57 +0000    25510 bytes  toastr-icon.png</tspan>
+<tspan x="10" y="3514">207.  2017-04-26 04:38:57 +0000    16360 bytes  toastr.js</tspan>
+<tspan x="10" y="3530">208.  2017-04-26 04:38:57 +0000     6861 bytes  toastr.less</tspan>
+<tspan x="10" y="3546">209.  2017-04-26 04:38:57 +0000     6883 bytes  toastr.scss</tspan>
 </text>
 </svg>
